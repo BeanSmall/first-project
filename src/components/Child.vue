@@ -1,6 +1,6 @@
 <template>
     <div>
-
+        测试仓库镜像功能
     </div>
 </template>
 
